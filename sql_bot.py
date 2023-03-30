@@ -56,7 +56,7 @@ async def player(ctx):
 @bot.command()
 async def battle(ctx):
 
-bot.run('MTA1MzM4MjIzMTE1MTg3ODE5NA.GkZbOZ.WHqn9bkAwp4welP96nOejTgDelXXfkjv2ANyeI')
+bot.run('Token')
 
 
 # ======================================================

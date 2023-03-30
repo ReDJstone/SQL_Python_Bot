@@ -86,4 +86,4 @@ async def q(ctx):
         sqliteConnection.commit()
         await ctx.channel.send(f"Query -> `{query}` <- successful.")
 
-bot.run('MTA1MzM4MjIzMTE1MTg3ODE5NA.GkZbOZ.WHqn9bkAwp4welP96nOejTgDelXXfkjv2ANyeI')
+bot.run('Token')
