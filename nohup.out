@@ -1,0 +1,558 @@
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 37
+    if '471738412102189057' in ctx.message()
+                                            ^
+SyntaxError: invalid syntax
+2021-12-23 19:29:53.027412 - ReDJstone (226408382448402433) in DMs: 🍪
+2021-12-23 19:29:55.951838 - ReDJstone (226408382448402433) in DMs: <@!471738412102189057>
+2021-12-23 19:51:47.240962 - ReDJstone (226408382448402433) in DMs: <@!471738412102189057>
+2021-12-23 19:51:50.290529 - ReDJstone (226408382448402433) in DMs: <@!471738412102189057>
+2021-12-23 19:51:54.030284 - ReDJstone (226408382448402433) in DMs: <@!471738412102189057>
+2021-12-23 19:52:21.875166 - DashFox|Abogado de mierda en D9 (803320907586207795) in DMs: CHINGA TU MADRE-
+2021-12-23 19:52:30.640829 - DashFox|Abogado de mierda en D9 (803320907586207795) in DMs: https://tenor.com/view/xqc-slam-slam-desk-desk-slam-xqc-slam-gif-19145485
+2021-12-23 19:52:33.365856 - ReDJstone (226408382448402433) in DMs: <@!471738412102189057>
+2021-12-23 19:52:46.203459 - ReDJstone (226408382448402433) in DMs: <@!471738412102189057>
+2021-12-23 19:53:52.297782 - Lord HLG (691708011353210930) in DMs: <@!803320907586207795> en <#715479228048736278> https://www.youtube.com/watch?v=1KJtkho_tuM
+2021-12-23 19:54:15.534419 - DashFox|Abogado de mierda en D9 (803320907586207795) in DMs: Y a ti quien te hablo?
+2021-12-23 19:54:26.636814 - Incognito (842920574505844757) in DMs: <:ApolloFacepalm:853666041480347658>
+2021-12-23 19:55:59.011852 - Lord HLG (691708011353210930) in DMs: yo, yo mismo y el que escribe este comentario .
+2021-12-23 19:56:08.925349 - ReDJstone (226408382448402433) in DMs: <@!471738412102189057>
+Lineas: 2
+2021-12-23 19:56:13.159308 - ReDJstone (226408382448402433) in DMs: <@!471738412102189057>
+Lineas: 2
+2021-12-23 19:56:18.388782 - ReDJstone (226408382448402433) in DMs: <@!471738412102189057>
+Lineas: 2
+2021-12-23 19:56:38.422014 - DashFox|Abogado de mierda en D9 (803320907586207795) in DMs: Buscando desde cuando me interesa tu opinión
+2021-12-23 19:56:48.677036 - DashFox|Abogado de mierda en D9 (803320907586207795) in DMs: https://tenor.com/view/run-running-fast-basketball-court-sprint-gif-16667898
+Ignoring exception in command insulta:
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 118, in insulta
+    line_cnt = int(sum(1 for line in open("{}/comandos/insultos.txt".format(os.path.dirname(__file__))))-1)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 118, in <genexpr>
+    line_cnt = int(sum(1 for line in open("{}/comandos/insultos.txt".format(os.path.dirname(__file__))))-1)
+  File "/usr/lib/python3.9/codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xbf in position 2693: invalid start byte
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xbf in position 2693: invalid start byte
+2021-12-23 20:38:42.675933 - ReDJstone (226408382448402433) in Distrito 9: <@!471738412102189057>
+2021-12-23 20:38:46.770026 - ReDJstone (226408382448402433) in Distrito 9 -> Insulto
+2021-12-23 20:38:46.770698 - ReDJstone (226408382448402433) in Distrito 9: r!insulta
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "Ping" is not found
+2021-12-23 21:38:56.163364 - ReDJstone (226408382448402433) in Distrito 9 -> Insulto
+2021-12-23 21:42:51.501775 - ReDJstone (226408382448402433) in Distrito 9 -> Ping
+2021-12-23 21:44:52.740673 - ReDJstone (226408382448402433) in Distrito 9 -> Insulto
+2021-12-26 03:07:29.651025 - windrammer (331137898009198592) in Distrito 9 -> Insulto
+2021-12-26 03:08:19.965720 - windrammer (331137898009198592) in Distrito 9 -> Insulto
+2021-12-26 03:08:21.945048 - windrammer (331137898009198592) in Distrito 9 -> Insulto
+2021-12-29 02:51:21.028965 - LoneWolf (472445546498621450) in DMs: Boi
+2021-12-29 02:51:21.306004 - ReDJBoT (471738412102189057) in DMs: Anda! No esperaba que nadie me mandara un mensaje privado! Gracias! Toma una galleta! :cookie:
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 35
+    await 
+          ^
+SyntaxError: invalid syntax
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 48
+    else:
+         ^
+IndentationError: unindent does not match any outer indentation level
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 46, in on_message
+    me = await client.get_user_info('ReDJstone#8166')
+NameError: name 'client' is not defined
+2021-12-29 03:02:37.939011 - LoneWolf (472445546498621450) in DMs: hola
+2021-12-29 03:02:38.179004 - ReDJBoT (471738412102189057) in DMs: Anda! No esperaba que nadie me mandara un mensaje privado! Gracias! Toma una galleta! :cookie:
+2021-12-29 03:52:44.364049 - LoneWolf (472445546498621450) in DMs: asgd
+2021-12-29 03:52:44.637734 - ReDJBoT (471738412102189057) in DMs: Anda! No esperaba que nadie me mandara un mensaje privado! Gracias! Toma una galleta! :cookie:
+2021-12-29 03:52:45.234966 - ReDJBoT (471738412102189057) in DMs: LoneWolf#7807, DMs: asgd
+2021-12-29 03:52:49.057249 - LoneWolf (472445546498621450) in DMs: key asdfasg
+2021-12-29 03:52:49.259485 - ReDJBoT (471738412102189057) in DMs: Has introducido la palabra clave "key", pero no he podido confirmar la contraseña! Informaré a ReD igualmente por si acaso es un error. No intentes spamear hasta conseguir la contraseña correcta, o serás descalificado!
+2021-12-29 03:52:49.613507 - ReDJBoT (471738412102189057) in DMs: LoneWolf#7807 ha fallado la contraseña! - key asdfasg
+2021-12-29 03:52:53.897895 - LoneWolf (472445546498621450) in DMs: key https://www.twitch.tv/redjstone - R3DJ570N3
+2021-12-29 03:52:54.123655 - ReDJBoT (471738412102189057) in DMs: Has conseguido la contraseña! Felicidades! Aviso a ReD ya mismo para que compruebe si eres el primero! Él te dará la key, si es así! :gift:
+2021-12-29 03:52:54.472404 - ReDJBoT (471738412102189057) in DMs: LoneWolf#7807 ha acertado la contraseña! - key https://www.twitch.tv/redjstone - R3DJ570N3
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 147
+    if arg1 = 471738412102189057:
+            ^
+SyntaxError: invalid syntax
+2021-12-29 21:15:19.501857 - ReDJstone (226408382448402433) in Distrito 9 -> Insulto
+2021-12-29 21:27:39.637968 - LoneWolf (472445546498621450) in DMs: key
+2021-12-29 21:27:40.184119 - ReDJBoT (471738412102189057) in DMs: Has introducido la palabra clave "key", pero no he podido confirmar la contraseña! No intentes spamear hasta conseguir la contraseña correcta, o serás descalificado!
+2021-12-29 21:27:40.691813 - ReDJBoT (471738412102189057) in DMs: LoneWolf#7807 (472445546498621450) ha fallado la contraseña! ```key```
+2021-12-29 21:27:55.240481 - ReDJstone (226408382448402433) in DMs: dq 472445546498621450
+2021-12-29 21:27:55.643424 - ReDJBoT (471738412102189057) in DMs: Descalificado: LoneWolf#7807 (472445546498621450)
+2021-12-29 21:28:05.670548 - LoneWolf (472445546498621450) in DMs: key
+2021-12-29 21:28:05.899863 - ReDJBoT (471738412102189057) in DMs: Has sido descalificado del juego. Consulta con ReDJstone para más detalles.
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "valymeme" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "insultame" is not found
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 34, in on_message
+    elif ctx.content.split()[0] == 'dq':
+IndexError: list index out of range
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fax" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "fax" is not found
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "momentazos" is not found
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 34, in on_message
+    elif ctx.content.split()[0] == 'dq':
+IndexError: list index out of range
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 34, in on_message
+    elif ctx.content.split()[0] == 'dq':
+IndexError: list index out of range
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 34, in on_message
+    elif ctx.content.split()[0] == 'dq':
+IndexError: list index out of range
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 34, in on_message
+    elif ctx.content.split()[0] == 'dq':
+IndexError: list index out of range
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 34, in on_message
+    elif ctx.content.split()[0] == 'dq':
+IndexError: list index out of range
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 34, in on_message
+    elif ctx.content.split()[0] == 'dq':
+IndexError: list index out of range
+2022-01-25 09:27:12.694180 - ReDJstone (226408382448402433) in DMs: ip
+2022-01-25 09:27:13.308482 - ReDJBoT (471738412102189057) in DMs: ||83.35.231.32||
+2022-01-30 15:22:22.921944 - ReDJstone (226408382448402433) in DMs: Ip
+2022-01-30 15:22:25.032738 - ReDJstone (226408382448402433) in DMs: ip
+2022-01-30 15:22:25.481612 - ReDJBoT (471738412102189057) in DMs: ||83.35.231.32||
+2022-02-02 21:13:19.969408 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Help
+2022-02-02 21:29:28.513149 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Insulto
+2022-02-02 21:57:56.368603 - -Profile_973- (734164465590730754) in DISTRITO PANAS -> Insulto
+2022-02-02 21:58:56.659911 - FemurSIKE (510650749735272448) in DISTRITO PANAS -> Insulto
+2022-02-02 22:21:09.959655 - -Profile_973- (734164465590730754) in DISTRITO PANAS -> Insulto
+2022-02-02 22:25:25.251688 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Insulto
+2022-02-02 22:25:34.418457 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Insulto
+2022-02-02 22:25:45.526204 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Insulto
+2022-02-02 22:26:04.735193 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Help
+2022-02-02 22:26:27.717103 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:26:58.402024 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:27:19.278669 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:27:25.289073 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:27:39.791359 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:27:49.470329 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:27:58.513153 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:28:20.605038 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Insulto
+2022-02-02 22:29:02.620619 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Insulto
+2022-02-02 22:29:09.306431 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:29:38.579419 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:30:03.538159 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:32:19.237486 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:33:32.372747 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:33:44.812748 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:35:27.009526 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:35:46.843445 - °Valen13Z° (617078466621341918) in DISTRITO PANAS -> Momentazo
+2022-02-02 22:38:47.531546 - -Profile_973- (734164465590730754) in DISTRITO PANAS -> Momentazo
+2022-02-03 19:03:44.111040 - ReDJstone (226408382448402433) in DMs: adfs
+2022-02-04 23:14:51.283260 - ReDJstone (226408382448402433) in DMs: Ip
+2022-02-04 23:14:53.228428 - ReDJstone (226408382448402433) in DMs: ip
+2022-02-04 23:14:53.638230 - ReDJBoT (471738412102189057) in DMs: ||79.146.96.164||
+2022-02-05 01:32:56.514220 - ReDJstone (226408382448402433) in DMs: ip
+2022-02-05 01:32:56.931480 - ReDJBoT (471738412102189057) in DMs: ||79.146.96.164||
+2022-02-07 18:41:06.404401 - ReDJstone (226408382448402433) in DMs: Ip
+2022-02-07 18:41:07.170358 - ReDJstone (226408382448402433) in DMs: ip
+2022-02-07 18:41:07.637776 - ReDJBoT (471738412102189057) in DMs: ||79.146.96.164||
+2022-02-09 20:56:00.106839 - ReDJstone (226408382448402433) in DMs: ATG7K-PRD33-J3G90 - Hacknet
+2B9IM-XR7NK-M5QFP - XCOM
+2022-02-09 21:14:52.585225 - ReDJstone (226408382448402433) in DMs: 
+2022-02-10 20:33:34.992450 - ReDJstone (226408382448402433) in DMs: 
+2022-02-13 00:10:55.003533 - ReDJstone (226408382448402433) in DMs: Tauro - Little Nightmares ( YLN2Q-6ZD9M-LGPK6 )
+Izaya - Payday 2 ( 28QYK-VGGJW-YITFW )
+Sherlock (KAZ) - Little Nightmares ( Z59TN-7C2J8-RQBDG )
+Ignis - Payday 2 ( JKHLX-Y4T5T-ID0Y4 )
+Nemeck - XCOM ( 2B9IM-XR7NK-M5QFP )
+2022-02-16 21:44:09.815515 - ReDJstone (226408382448402433) in DMs: asg
+2022-02-17 00:52:06.335029 - ReDJstone (226408382448402433) in DMs: 
+2022-02-17 00:54:44.464327 - ReDJstone (226408382448402433) in DMs: 
+2022-02-17 00:55:26.767412 - ReDJstone (226408382448402433) in DMs: 
+2022-02-17 00:57:23.052745 - ReDJstone (226408382448402433) in DMs: 
+2022-02-17 08:30:29.653374 - ReDJstone (226408382448402433) in DMs: Ip
+2022-02-17 08:30:32.104646 - ReDJstone (226408382448402433) in DMs: ip
+2022-02-17 08:30:32.548658 - ReDJBoT (471738412102189057) in DMs: ||79.146.96.164||
+2022-02-18 19:04:52.155139 - ReDJstone (226408382448402433) in DMs: ip
+2022-02-18 19:04:52.602109 - ReDJBoT (471738412102189057) in DMs: ||79.146.96.164||
+2022-02-19 15:20:50.107905 - ReDJstone (226408382448402433) in DMs: ip
+2022-02-19 15:20:50.640832 - ReDJBoT (471738412102189057) in DMs: ||79.146.96.164||
+2022-02-23 08:22:44.289125 - ReDJstone (226408382448402433) in DMs: https://i.makeagif.com/media/5-14-2018/-zW-1z.gif
+2022-02-23 08:25:12.783605 - ReDJstone (226408382448402433) in DMs: https://discord.gg/ejcjMsDt9a
+2022-02-23 08:40:36.802575 - ReDJstone (226408382448402433) in DMs: asgd
+2022-02-24 14:09:10.262897 - ReDJstone (226408382448402433) in DMs: ip
+2022-02-24 14:09:10.922622 - ReDJBoT (471738412102189057) in DMs: ||79.146.96.164||
+2022-02-24 14:12:30.203035 - ReDJstone (226408382448402433) in DMs: Ip
+2022-02-24 14:12:30.687091 - ReDJBoT (471738412102189057) in DMs: ||79.146.96.164||
+2022-02-24 14:20:18.344349 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:20:18.554644 - ReDJBoT (471738412102189057) in DMs: Anda. No esperaba que nadie me mandara un mensaje privado! Gracias! Toma una galleta! :cookie:
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 35, in on_message
+    msg = str(open("{}/comandos/mady.txt".format(os.path.dirname(__file__))).readlines()[rng])
+Ignoring exception in on_message
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 35, in on_message
+    msg = str(open("{}/comandos/mady.txt".format(os.path.dirname(__file__))).readlines()[rng])
+IndexError: list index out of range
+2022-02-24 14:40:47.419589 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:40:47.426893 - ReDJstone (226408382448402433) in DMs: test
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 40, in on_message
+    await ctx.chanel.send(msg)
+AttributeError: 'Message' object has no attribute 'chanel'
+2022-02-24 14:47:21.656692 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:48:44.939001 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:48:45.367976 - ReDJBoT (471738412102189057) in DMs: ReDJstone#8166, DMs: test // IndexError, rng: 3, line_cnt: 3
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 37, in on_message
+    await ctx.channel.send(msg)
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 37, in on_message
+    await ctx.channel.send(msg)
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+2022-02-24 14:50:34.512742 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:50:34.714406 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+2022-02-24 14:50:38.747647 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:50:43.736827 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:53:00.216514 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:53:00.396825 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+2022-02-24 14:53:03.427236 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:53:03.681495 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+2022-02-24 14:53:06.542680 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:53:06.744974 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+2022-02-24 14:53:08.237284 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:53:08.427824 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+2022-02-24 14:53:10.919015 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:53:11.107089 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+2022-02-24 14:53:12.986964 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:53:13.161198 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+2022-02-24 14:56:18.121119 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:56:18.384322 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+ - 1 2
+2022-02-24 14:56:22.373609 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:56:22.591665 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+ - 1 2
+2022-02-24 14:56:25.221401 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:56:25.396902 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+ - 1 2
+2022-02-24 14:57:43.875279 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:57:44.067819 - ReDJBoT (471738412102189057) in DMs: Uy, hola, guapa! ;D Qué hace una chica como tú en un chat como este? :3
+ - 0 2
+2022-02-24 14:57:49.000689 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 14:57:49.278491 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+ - 1 2
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 14
+    ReD = await bot.fetch_user('226408382448402433')
+          ^
+SyntaxError: 'await' outside function
+2022-02-24 15:02:43.467100 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 15:02:43.730184 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+ - 1 2
+sys:1: RuntimeWarning: coroutine 'Client.fetch_user' was never awaited
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 39, in on_message
+    await ReD.send('DM to Mady: {}'.format(msg))
+TypeError: can't send non-None value to a just-started coroutine
+2022-02-24 15:03:32.283007 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 15:03:32.607724 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+ - 1 2
+sys:1: RuntimeWarning: coroutine 'Client.fetch_user' was never awaited
+2022-02-24 15:04:51.449249 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 15:04:51.660316 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+ - 1 2
+2022-02-24 15:04:51.999454 - ReDJBoT (471738412102189057) in DMs: DM to Mady: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "Momentazo" is not found
+2022-02-24 15:05:57.541918 - ReDJstone (226408382448402433) in DMs: test
+2022-02-24 15:05:57.753643 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+ - 1 2
+2022-02-24 15:05:58.092175 - ReDJBoT (471738412102189057) in DMs: DM to Mady: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+2022-02-24 15:11:37.501496 - Mαdy † Doll (324520247782539264) in DMs: hola
+2022-02-24 15:11:37.761815 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+2022-02-24 15:11:38.083090 - ReDJBoT (471738412102189057) in DMs: DM to Mady: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+2022-02-24 15:11:46.233326 - Mαdy † Doll (324520247782539264) in DMs: pñooooooooooooooooooooof
+2022-02-24 15:11:46.435589 - ReDJBoT (471738412102189057) in DMs: Uy, hola, guapa! ;D Qué hace una chica como tú en un chat como este? :3
+2022-02-24 15:11:46.902076 - ReDJBoT (471738412102189057) in DMs: DM to Mady: Uy, hola, guapa! ;D Qué hace una chica como tú en un chat como este? :3
+2022-02-24 15:11:49.906959 - Mαdy † Doll (324520247782539264) in DMs: xdxd
+2022-02-24 15:11:50.123633 - ReDJBoT (471738412102189057) in DMs: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+2022-02-24 15:11:50.675456 - ReDJBoT (471738412102189057) in DMs: DM to Mady: Eyyyy, dicen que a las chicas se las conquista con comida! Y yo sé que tú no eres la excepción... :wink::cookie:
+2022-02-24 15:11:55.478312 - Mαdy † Doll (324520247782539264) in DMs: lol
+2022-02-24 15:11:55.684066 - ReDJBoT (471738412102189057) in DMs: Uy, hola, guapa! ;D Qué hace una chica como tú en un chat como este? :3
+2022-02-24 15:11:56.034793 - ReDJBoT (471738412102189057) in DMs: DM to Mady: Uy, hola, guapa! ;D Qué hace una chica como tú en un chat como este? :3
+2022-02-26 17:31:34.023098 - ReDJstone (226408382448402433) in DMs: Ip
+2022-02-26 17:31:34.466177 - ReDJBoT (471738412102189057) in DMs: ||79.146.96.164||
+2022-02-28 17:37:17.975065 - ReDJstone (226408382448402433) in DMs: ip
+2022-02-28 17:37:18.378097 - ReDJBoT (471738412102189057) in DMs: ||79.146.96.164||
+2022-03-02 12:01:20.048281 - Kiara (407268594360254475) in Distrito 9 -> Help
+2022-03-02 12:06:06.783779 - Kiara (407268594360254475) in Distrito 9 -> Help
+2022-03-02 12:07:30.948000 - Kiara (407268594360254475) in Distrito 9 -> Insulto
+2022-03-02 12:08:50.995613 - Kiara (407268594360254475) in Distrito 9 -> Momentazo
+2022-03-02 12:09:46.824626 - Kiara (407268594360254475) in Distrito 9 -> Momentazo
+2022-03-02 12:11:51.216826 - Kiara (407268594360254475) in Distrito 9 -> Momentazo
+2022-03-02 12:12:45.552785 - Kiara (407268594360254475) in Distrito 9 -> Momentazo
+2022-03-02 12:13:58.960404 - Kiara (407268594360254475) in Distrito 9 -> Momentazo
+2022-03-02 12:16:05.021215 - Kiara (407268594360254475) in Distrito 9 -> Momentazo
+2022-03-02 12:17:30.939932 - Kiara (407268594360254475) in Distrito 9 -> Momentazo
+2022-03-02 12:19:41.851090 - Kiara (407268594360254475) in Distrito 9 -> Momentazo
+2022-03-02 18:40:11.993938 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 18:42:25.815370 - °Valen13Z° (617078466621341918) in Distrito 9 -> Momentazo
+2022-03-02 18:44:50.139589 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 18:46:18.681035 - °Valen13Z° (617078466621341918) in Distrito 9 -> Insulto
+2022-03-02 18:46:37.686094 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 18:47:16.021913 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 18:48:43.453627 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 18:48:54.165698 - °Valen13Z° (617078466621341918) in Distrito 9 -> Momentazo
+2022-03-02 18:49:22.892757 - °Valen13Z° (617078466621341918) in Distrito 9 -> Ping
+2022-03-02 18:49:24.679713 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 18:53:08.375449 - °Valen13Z° (617078466621341918) in Distrito 9 -> Insulto
+2022-03-02 18:53:18.290468 - °Valen13Z° (617078466621341918) in Distrito 9 -> Insulto
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 60
+    else:
+         ^
+IndentationError: unindent does not match any outer indentation level
+Ignoring exception in command insulta:
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/ext/commands/core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 154, in insulta
+    await ctx.channel.send('{}, {}'.format(target, frase))
+UnboundLocalError: local variable 'target' referenced before assignment
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/ext/commands/bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/ext/commands/core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/ext/commands/core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: UnboundLocalError: local variable 'target' referenced before assignment
+2022-03-02 18:55:57.863568 - ReDJstone (226408382448402433) in Distrito 9 -> Ping
+2022-03-02 18:56:28.028521 - ReDJstone (226408382448402433) in Distrito 9 -> Insulto
+2022-03-02 18:57:48.665327 - ReDJstone (226408382448402433) in Distrito 9 -> Ping
+2022-03-02 18:58:58.841807 - ReDJstone (226408382448402433) in Distrito 9 -> Ping
+2022-03-02 18:59:47.634865 - °Valen13Z° (617078466621341918) in Distrito 9 -> Ping
+2022-03-02 19:00:21.789129 - ReDJstone (226408382448402433) in Distrito 9 -> Ping
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "momentazzo" is not found
+2022-03-02 19:01:47.852133 - ReDJstone (226408382448402433) in Distrito 9 -> Ping
+2022-03-02 19:06:22.347863 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:06:28.539530 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:35:16.996698 - ReDJstone (226408382448402433) in Distrito 9 -> Ping
+2022-03-02 19:35:27.230862 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:36:05.009385 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:36:11.228174 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:36:15.500305 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:36:21.134961 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:36:27.170693 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:36:31.947087 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:36:36.124776 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:36:41.339054 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:36:47.832307 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:37:20.399832 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:37:38.025482 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:37:46.621174 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:37:51.423228 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:37:55.721557 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:38:01.138285 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:38:03.848288 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:38:48.182130 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:38:51.903223 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:38:55.436895 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:39:05.995981 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:39:44.078079 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-03-02 19:41:24.493012 - ReDJstone (226408382448402433) in DMs: test
+2022-03-02 19:41:24.701266 - ReDJBoT (471738412102189057) in DMs: Algo bonito. :relieved:
+ - 4 7
+2022-03-02 19:41:24.704826 - ReDJBoT (471738412102189057) in DMs: Uy, hola, guapa! ;D Qué hace una chica como tú en un chat como este? :3
+ - 0 2
+2022-03-02 19:41:25.099364 - ReDJBoT (471738412102189057) in DMs: DM to Mady: Uy, hola, guapa! ;D Qué hace una chica como tú en un chat como este? :3
+2022-03-02 19:41:25.120184 - ReDJBoT (471738412102189057) in DMs: DM to Mady: Algo bonito. :relieved:
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 40
+    await ReD.send('{}, DMs: {} // IndexError, rng: {}, line_cnt: {}'.format(ctx.author, ctx.content, >
+                                                                                                      ^
+SyntaxError: invalid syntax
+2022-03-02 19:41:24.486245 - ReDJstone (226408382448402433) in DMs: test
+2022-03-02 19:41:24.685282 - ReDJBoT (471738412102189057) in DMs: Algo bonito. :relieved:
+ - 4 7
+2022-03-02 19:41:24.714004 - ReDJBoT (471738412102189057) in DMs: Uy, hola, guapa! ;D Qué hace una chica como tú en un chat como este? :3
+ - 0 2
+2022-03-02 19:41:25.101496 - ReDJBoT (471738412102189057) in DMs: DM to Mady: Uy, hola, guapa! ;D Qué hace una chica como tú en un chat como este? :3
+2022-03-02 19:41:25.140462 - ReDJBoT (471738412102189057) in DMs: DM to Mady: Algo bonito. :relieved:
+2022-03-02 19:43:31.539528 - ReDJstone (226408382448402433) in DMs: test
+2022-03-02 19:43:31.884158 - ReDJBoT (471738412102189057) in DMs: Cuándo dejarás el movil? >:( https://cdn.discordapp.com/attachments/472840506431373312/920122361863360533/c0cda25eb9230dbef2ffa496d1ffd255-png.png
+ - 5 7
+2022-03-02 19:43:31.910390 - ReDJBoT (471738412102189057) in DMs: UUUUUUUUUUUUUUUUUUU >:D
+2022-03-02 19:43:32.306355 - ReDJBoT (471738412102189057) in DMs: DM to Mady: Cuándo dejarás el movil? >:( https://cdn.discordapp.com/attachments/472840506431373312/920122361863360533/c0cda25eb9230dbef2ffa496d1ffd255-png.png
+2022-03-02 19:43:32.414116 - ReDJBoT (471738412102189057) in DMs: DM to <@UUUUUUUUUUUUUUUUUUU >:D
+>: 226408382448402433
+2022-03-02 19:43:31.538458 - ReDJstone (226408382448402433) in DMs: test
+2022-03-02 19:43:31.891343 - ReDJBoT (471738412102189057) in DMs: Cuándo dejarás el movil? >:( https://cdn.discordapp.com/attachments/472840506431373312/920122361863360533/c0cda25eb9230dbef2ffa496d1ffd255-png.png
+ - 5 7
+2022-03-02 19:43:31.900803 - ReDJBoT (471738412102189057) in DMs: UUUUUUUUUUUUUUUUUUU >:D
+2022-03-02 19:43:32.303101 - ReDJBoT (471738412102189057) in DMs: DM to Mady: Cuándo dejarás el movil? >:( https://cdn.discordapp.com/attachments/472840506431373312/920122361863360533/c0cda25eb9230dbef2ffa496d1ffd255-png.png
+2022-03-02 19:43:32.409269 - ReDJBoT (471738412102189057) in DMs: DM to <@UUUUUUUUUUUUUUUUUUU >:D
+>: 226408382448402433
+2022-03-02 19:44:19.662324 - ReDJstone (226408382448402433) in DMs: test
+2022-03-02 19:44:20.028380 - ReDJBoT (471738412102189057) in DMs: Cuándo dejarás el movil? >:( https://cdn.discordapp.com/attachments/472840506431373312/920122361863360533/c0cda25eb9230dbef2ffa496d1ffd255-png.png
+2022-03-02 19:44:20.253245 - ReDJBoT (471738412102189057) in DMs: DM to <@Cuándo dejarás el movil? >:( https://cdn.discordapp.com/attachments/472840506431373312/920122361863360533/c0cda25eb9230dbef2ffa496d1ffd255-png.png
+>: 226408382448402433
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 62, in on_message
+    await ctx.channel.send(msg)
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+2022-03-02 19:45:46.904428 - ReDJstone (226408382448402433) in DMs: test
+2022-03-02 19:45:47.311226 - ReDJBoT (471738412102189057) in DMs: Ho-la, Va-ly! :3
+2022-03-02 19:45:47.548981 - ReDJBoT (471738412102189057) in DMs: DM to <@226408382448402433>: Ho-la, Va-ly! :3
+2022-03-02 19:45:56.080748 - °Valen13Z° (617078466621341918) in DMs: Hola bot
+2022-03-02 19:45:56.437373 - ReDJBoT (471738412102189057) in DMs: Algo bonito. :relieved:
+2022-03-02 19:45:56.642496 - ReDJBoT (471738412102189057) in DMs: DM to <@617078466621341918>: Algo bonito. :relieved:
+2022-03-02 19:46:14.671763 - °Valen13Z° (617078466621341918) in DMs: 👍
+2022-03-02 19:46:15.037109 - ReDJBoT (471738412102189057) in DMs: Cuándo dejarás el movil? >:( https://cdn.discordapp.com/attachments/472840506431373312/920122361863360533/c0cda25eb9230dbef2ffa496d1ffd255-png.png
+2022-03-02 19:46:15.226329 - ReDJBoT (471738412102189057) in DMs: DM to <@617078466621341918>: Cuándo dejarás el movil? >:( https://cdn.discordapp.com/attachments/472840506431373312/920122361863360533/c0cda25eb9230dbef2ffa496d1ffd255-png.png
+2022-03-02 19:46:21.295997 - °Valen13Z° (617078466621341918) in DMs: Nunca
+2022-03-02 19:47:00.157185 - °Valen13Z° (617078466621341918) in DMs: épico
+2022-03-02 19:47:00.523001 - ReDJBoT (471738412102189057) in DMs: UUUUUUUUUUUUUUUUUUU >:D
+2022-03-02 19:47:00.706045 - ReDJBoT (471738412102189057) in DMs: DM to <@617078466621341918>: UUUUUUUUUUUUUUUUUUU >:D
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 70, in on_message
+    ReD = await bot.fetch_user('226408382448402433')
+UnboundLocalError: local variable 'msg' referenced before assignment
+Ignoring exception in on_message
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 70, in on_message
+    ReD = await bot.fetch_user('226408382448402433')
+UnboundLocalError: local variable 'msg' referenced before assignment
+  File "/home/redpi/Documents/bots/redjBot/redjbot.py", line 75
+    await ReD.send('{}, DMs: {} // IndexError, rng: {}, line_cnt: {}'.format(ctx.author, ctx.content, >
+                                                                                                      ^
+SyntaxError: invalid syntax
+2022-06-11 02:54:36.599080 - ReDJstone (226408382448402433) in Distrito 9 -> Help
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+2022-06-11 02:56:43.835470 - ReDJstone (226408382448402433) in Distrito 9 -> Ping
+2022-06-11 02:56:50.108042 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-06-11 02:56:59.061859 - ReDJstone (226408382448402433) in Distrito 9 -> Momentazo
+2022-06-11 02:57:11.055493 - ReDJstone (226408382448402433) in Distrito 9 -> Insulto
+2022-06-11 02:59:00.324439 - ReDJstone (226408382448402433) in Distrito 9 -> Ping
+/home/red/Documentos/d9_server/d9_bot/d9_bot.py:40: RuntimeWarning: coroutine 'Command.__call__' was never awaited
+  print(f'[MSG LOG] {ctx.author.name} ({ctx.author.id}): {ctx.content}')
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+  File "/home/red/Documentos/d9_server/d9_bot/d9_bot.py", line 152
+    bot.run('OTgzODI1MTkzNDE3OTkwMTg0.G4nsGR.gWIgHStbNCvDY-Yrg42nxVKyxmOXOAYAIJeW1M')
+    ^
+IndentationError: expected an indented block after function definition on line 149
+/home/red/Documentos/d9_server/d9_bot/d9_bot.py:40: RuntimeWarning: coroutine 'Command.__call__' was never awaited
+  print(f'[MSG LOG] {ctx.author.name} ({ctx.author.id}): {ctx.content}')
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+/home/red/Documentos/d9_server/d9_bot/d9_bot.py:45: RuntimeWarning: coroutine 'Command.__call__' was never awaited
+  print('{} - {} ({}) in {} -> {}'.format(datetime.datetime.now(), ctx.author.name, ctx.author.id, ctx.guild, 'Ping'))
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+/home/red/Documentos/d9_server/d9_bot/d9_bot.py:151: RuntimeWarning: coroutine 'Command.__call__' was never awaited
+  print('{} - {} ({}) in {} -> {}'.format(datetime.datetime.now(), ctx.author.name, ctx.author.id, ctx.guild, 'Chismoso'))
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+/home/red/Documentos/d9_server/d9_bot/d9_bot.py:163: RuntimeWarning: coroutine 'Command.__call__' was never awaited
+  print('{} - {} ({}) in {} -> {}'.format(datetime.datetime.now(), ctx.author.name, ctx.author.id, ctx.guild, 'Llorica'))
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+/home/red/Documentos/d9_server/d9_bot/d9_bot.py:40: RuntimeWarning: coroutine 'Command.__call__' was never awaited
+  print(f'[MSG LOG] {ctx.author.name} ({ctx.author.id}): {ctx.content}')
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+/home/redpi/Documents/d9_server/d9_bot/d9_bot.py:50: RuntimeWarning: coroutine 'Command.__call__' was never awaited
+  print(f'[MSG LOG] {ctx.author.name} ({ctx.author.id}): {ctx.content}')
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+/home/redpi/Documents/d9_server/d9_bot/d9_bot.py:50: RuntimeWarning: coroutine 'Command.__call__' was never awaited
+  print(f'[MSG LOG] {ctx.author.name} ({ctx.author.id}): {ctx.content}')
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+/home/redpi/Documents/d9_server/d9_bot/d9_bot.py:50: RuntimeWarning: coroutine 'Command.__call__' was never awaited
+  print(f'[MSG LOG] {ctx.author.name} ({ctx.author.id}): {ctx.content}')
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+/home/redpi/Documents/d9_server/d9_bot/d9_bot.py:161: RuntimeWarning: coroutine 'Command.__call__' was never awaited
+  print('{} - {} ({}) in {} -> {}'.format(datetime.datetime.now(), ctx.author.name, ctx.author.id, ctx.guild, 'Chismoso'))
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "comandos" is not found
+/home/redpi/Documents/d9_server/d9_bot/d9_bot.py:173: RuntimeWarning: coroutine 'Command.__call__' was never awaited
+  print('{} - {} ({}) in {} -> {}'.format(datetime.datetime.now(), ctx.author.name, ctx.author.id, ctx.guild, 'Llorica'))
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+Ignoring exception in command None:
+discord.ext.commands.errors.CommandNotFound: Command "cjismoso" is not found
